@@ -4,8 +4,6 @@
 
 Recently, I've seen a lot of posts on Reddit and Twitter such as [this..](https://www.reddit.com/r/dataisbeautiful/comments/7815w6/the_average_face_of_chinese_bureacracy_oc/)
 
-C:\Users\Rohan\Desktop\Flags\flags-normal\images\bureaucracy.png
-
 ![Combined image of Chinese bureaucracy](https://raw.githubusercontent.com/rowhanm/flags-of-the-world/master/flags-normal/bureaucracy.png "Combined image of Chinese bureaucracy")
 
 [and..](https://www.reddit.com/r/dataisbeautiful/comments/77m3hh/combined_faces_of_top_1800_mlb_major_league/)
