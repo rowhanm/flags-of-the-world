@@ -27,9 +27,9 @@ All the images in the dataset are lossless PNGs and are listed in a two letter c
 <li>North America = USA, Mexico, Canada + the Caribbean islands.</li>
 </ol>
 
-<ul><li>
+
 **_There may be some countries missing in this, but those are not representative of anything political, they just were not available in the dataset_**
-</li></ul>
+
 
 - __Normalization:__
 The images all are of the same width but have different heights. To combine images, we need them to be of the same dimensions, i.e., (height, width, channel). The channel corresponds to the Blue Green Red channels for each image. The way I performed this normalization was by converting all images to the height of the image with the maximum height, and padding the extra pixels with the mean RGB values (as opposed to zero padding). This makes the representation less random and true to each individual component.
