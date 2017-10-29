@@ -4,11 +4,11 @@
 
 Recently, I've seen a lot of posts on Reddit and Twitter such as [this..](https://www.reddit.com/r/dataisbeautiful/comments/7815w6/the_average_face_of_chinese_bureacracy_oc/)
 
-![Combined image of Chinese bureaucracy](/images/bureaucracy.png "Combined image of Chinese bureaucracy")
+![Combined image of Chinese bureaucracy](/flags-normal/bureaucracy.png "Combined image of Chinese bureaucracy")
 
 [and..](https://www.reddit.com/r/dataisbeautiful/comments/77m3hh/combined_faces_of_top_1800_mlb_major_league/)
 
-![Combined image of the average MLB player](/images/mlb.png "Combined image of the average MLB player")
+![Combined image of the average MLB player](/flags-normal/mlb.png "Combined image of the average MLB player")
 
 
 ..and I started thinking about one particular aspect of such a merger of images. On a very naive level, they seem like a pretty good representation of the state of that organization. If/when you think about someone from Chinese bureaucracy or an MLB player, the picturization in your mind wouldn't be far off.
@@ -73,34 +73,34 @@ def combine(flags):
 These are the flags for each continent:
 
 - Africa
-![Combined African flag](/images/africa.png "Combined African flag")
+![Combined African flag](/flags-normal/africa.png "Combined African flag")
 *A lot of greens, relatively low amount of blue.*
 
 
 - Asia
-![Combined Asian flag](/images/asia.png "Combined Asian flag")
+![Combined Asian flag](/flags-normal/asia.png "Combined Asian flag")
 *Very red.*
 
 - Europe
-![Combined European flag](/images/europe.png "Combined European flag")
+![Combined European flag](/flags-normal/europe.png "Combined European flag")
 *Similar to asia, pretty red. The three vertical stripe pattern of Italy, France, etc. pretty dominant.*
 
 
 - Oceania
-![Combined flag of Oceania](/images/oceania.png "Combined flag of Oceania")
+![Combined flag of Oceania](/flags-normal/oceania.png "Combined flag of Oceania")
 *Obviously, this had to be very blue, for the ocean. This definitely is a good representation!*
 
 - South America
-![Combined South American flag](/images/south_america.png "Combined South American flag")
+![Combined South American flag](/flags-normal/south_america.png "Combined South American flag")
 *Bright yellows and greens in this one. The rainforest probably having a heavy influence!*
 
 
 - North America
-![Combined North American flag](/images/north_america.png "Combined North American flag")
+![Combined North American flag](/flags-normal/north_america.png "Combined North American flag")
 *Again, high % of blue in this. Considering most nations in this continent are island nations.*
 
 - The whole world
-![Combined flag of the world](/images/world.png "Combined flag of the world")
+![Combined flag of the world](/flags-normal/world.png "Combined flag of the world")
 *Very much in the middle, mix of bright greens from Africa and South America plus somber reds and blues from Asia and Europe. The world is a mixture of bright and somber.*
 
 
